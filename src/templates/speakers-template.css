@@ -1,0 +1,16 @@
+.speaker-list {
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+  max-width: 46rem;
+  justify-content: center;
+}
+
+.headshot {
+  width: 15rem;
+  height: 15rem;
+}
+
+.info-container {
+  max-width: 15rem;
+}
